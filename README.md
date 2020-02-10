@@ -2,7 +2,7 @@
 
 Ciao Everyone,
 
-Me &amp; my Italian friend started a tech community to have tech meetups in Lecce (since we both are software engineers and loves tech and like to network with fellow techie people around - I am sure You loves Tech too and would like to be-a-part or support us in this). 
+Me &amp; a Italian friend recently started a tech community in Lecce to promote technology and have tech meetups (since we both are software engineers and loves tech and like to network with fellow techie people around - I am sure You loves Tech too and would like to be-a-part or support us in this). 
 
 In the meetup's we talk about technologies, tools, programming languages and frameworks (especially on web &amp; mobile like node.js, angular, react, javascript, typescript, php, python etc). Also we'd like to connect to companies and sponsors too for organising our meetups better and more often, so If you have some connections in your network or maybe ideas, you could reach us out and we'd love to meet you up over a cup of coffe / maybe a bear..
 
